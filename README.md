@@ -1,2 +1,2 @@
 # sdat2img
-cpp impl sdat2img
+golang impl sdat2img
